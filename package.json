@@ -1,0 +1,17 @@
+{
+  "name": "multer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "Mohsen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "winston": "^3.17.0"
+  }
+}
